@@ -1,8 +1,3 @@
-
-
-http://www.thirdeyevis.com/pi-page-2.php
-
-
 #!/usr/bin/python
 
 import RPi.GPIO as GPIO
@@ -25,4 +20,3 @@ def main():
   blink(int(num_of_blinks), float(speed))
 
 main()
-
