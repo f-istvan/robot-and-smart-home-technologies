@@ -22,3 +22,18 @@ Steps to set up a RPi with TP-Link TL-WN725N:
 * Find out how to install the driver
 * Install the driver
 * Check if instalation was successful: $ ifconfig
+
+E.G.:
+
+If your Raspbian Wheezy's version is 3.18.11+ #780, #781, #782, #783
+* You will download 8188eu-20150428.tar.gz
+* untar the tar.gz driver file 
+* run the install.sh
+
+Something like:
+
+```sh
+$ wget https://dl.dropboxusercontent.com/u/80256631/8188eu-2015yyzz.tar.gz
+$ tar xzf 8188eu-2015yyzz.tar.gz
+$ ./install.sh
+```
