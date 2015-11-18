@@ -15,7 +15,7 @@ Steps to set up a RPi with TP-Link TL-WN725N:
 * find PRi's IP address
 * ssh to Raspberry:
 	* $ ssh pi@ipaddress
-	* defaults: user: ip, passwd: raspberry
+	* defaults: user: pi, passwd: raspberry
 * Find out our Raspbian Wheezy's version. Command: $ uname -a
 * Find the right TP-LINK driver url here: https://www.raspberrypi.org/forums/viewtopic.php?p=462982#p462982
 * Download the driver using wget command
