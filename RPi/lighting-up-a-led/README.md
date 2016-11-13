@@ -1,4 +1,4 @@
-This project is for lighting up a led using Raspberry Pi and Python. It's a Hello World program in RPi's GPIO world.
+This folder contains a tutorial for lighting up a led using Raspberry Pi with Python. Lighting up a led is a Hello World program in RPi's GPIO world.
 
 All you need:
 * a RPi
@@ -10,4 +10,4 @@ Your circuit should look like this:
 
 ![](https://github.com/f-istvan/robot-and-smart-home-technologies/blob/master/readme-pictures/1-led.png)
 
-After it is done, add led.py code anywhere in RPi's directory structure e.g.: user home. Run the code.
+After it is done, add led.py code anywhere in RPi's directory structure e.g.: user home and run the code.
