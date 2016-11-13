@@ -1,6 +1,6 @@
-This folder contains a tutorial for lighting up a led using Raspberry Pi with Python. Lighting up a led is a Hello World program in RPi's GPIO world.
+### This folder contains a tutorial for lighting up a led using Raspberry Pi with Python. Lighting up a led is a Hello World program in RPi's GPIO world.
 
-All you need:
+#### All you need:
 * a RPi
 * a led
 * a 50 ohm resistor

@@ -3,6 +3,7 @@
 #### All you need
 * a RPi
 * TP-Link TL-WN725N
+* one (at least) 2GB SD card
 
 #### Steps
 * download Raspbian Jessie Lite (Linux raspberrypi 4.4.21+ #911 Thu Sep 15 14:17:52 BST 2016 armv6l GNU/Linux - conatins the driver for TP-Link TL-WN725N Wireless USB Adapter
