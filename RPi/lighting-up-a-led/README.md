@@ -8,6 +8,6 @@
 
 Your circuit should look like this:
 
-![](https://github.com/f-istvan/robot-and-smart-home-technologies/blob/master/readme-pictures/1-led.png)
+![](1-led.png)
 
 After it is done, add led.py code anywhere in RPi's directory structure e.g.: user home and run the code.
